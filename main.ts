@@ -2,7 +2,7 @@
  *
  * Created by: Daki A.B
  * Created on: Oct 2023
- * This program uses sonar to measure distance 
+ * This program uses sonar to measure distance
 */
 
 // variables
