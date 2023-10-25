@@ -8,7 +8,7 @@
 // variables
 let distanceFromObject: number = 0
 
-// on start up
+// on startup
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
